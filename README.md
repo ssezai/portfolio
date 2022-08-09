@@ -1,5 +1,5 @@
 
-# My name is Silvia Sezai 👋
+## *My name is Silvia Sezai* 👋 
 
 
 
@@ -23,13 +23,9 @@ I'm Frontend Developer & Web Designer
 - Adobe XD
 
 
-## 🛠 Links
+## 🔗 Links
 
-##  🔗http://planetabengal.com.ar
-
-## 🔗http://centromichimiau.com.ar
-
-
+<font size="3">   http://planetabengal.com.ar
 
 ## 📫 Contact
 ssezai@hotmail.com
